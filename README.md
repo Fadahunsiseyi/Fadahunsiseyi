@@ -19,8 +19,8 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently a full-time student at Microverse Inc.I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- 🌱 I’m currently learning Full-Stack Software Engineering ( Javascript,React,NodeJs,NextJs,Express.js,MongoDB).
-- 👯 I’m looking to collaborate on Javascript projects.
+- 🌱 I’m currently learning Full-Stack Software Engineering ( JavaScript,React,NodeJs,NextJs,Express.js,MongoDB).
+- 👯 I’m looking to collaborate on JavaScript projects.
 - 🤔 I’m  working towards getting my first dev job for Hardwork pays!
 - 💬 Ask me about Agile Development.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Fadahunsiseyi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fadahunsiseyi/) .
