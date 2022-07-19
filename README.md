@@ -19,18 +19,18 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently a full time student at Microverse Inc.I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- 🌱 I’m currently learning Full Stack Software Engineering ( JavaScript,React,NodeJs,NextJs,Express.js,MongoDB)
-- 👯 I’m looking to collaborate on JavaScript projects
+- 🌱 I’m currently learning Full Stack Software Engineering ( JavaScript,React,NodeJs,NextJs,Express.js,MongoDB).
+- 👯 I’m looking to collaborate on JavaScript projects.
 - 🤔 I’m  working towards getting my first dev job for Hardwork pays!
-- 💬 Ask me about Agile Development
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Fadahunsiseyi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fadahunsiseyi/)
-- 😄 Pronouns: I am a He/Him
+- 💬 Ask me about Agile Development.
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Fadahunsiseyi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fadahunsiseyi/) .
+- 😄 Pronouns: I am a He/Him.
 - ⚡ Fun fact: I wrote my very first line of code on my friend's laptop.
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Fadahunsiseyi&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Fadahunsiseyi&theme=dark&background=000000)](https://git.io/streak-stats) .
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fadahunsiseyi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fadahunsiseyi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) .
 
 
 
