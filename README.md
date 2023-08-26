@@ -4,10 +4,10 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/fadahunsiseyi">
     <img src="https://img.shields.io/badge/LinkedIn-red?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/fadahunsiseyi/"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://twitter.com/Fadahunsiseyi_">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/Fadahunsiseyi_"/>
   </a>
 </div>
@@ -18,10 +18,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently a full-time student at Microverse Inc.I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- 🌱 I’m currently learning Full-Stack Software Engineering ( JavaScript,React,NodeJs,NextJs,Express.js,MongoDB).
+- 🔭 I’m currently a full-time student at Microverse Inc. I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- 🌱 I’m currently learning Full-Stack Software Engineering ( JavaScript, React,NodeJs,NextJs, Express.js, MongoDB).
 - 👯 I’m looking to collaborate on JavaScript projects.
-- 🤔 I’m  working towards getting my first dev job for Hardwork pays!
+- 🤔 I’m  working towards getting my first dev job for hard pay!
 - 💬 Ask me about Agile Development.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Fadahunsiseyi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fadahunsiseyi/) .
 - 😄 Pronouns: I am a He/Him.
